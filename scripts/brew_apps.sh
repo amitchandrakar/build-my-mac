@@ -8,35 +8,40 @@ brew install --cask vlc
 brew install --cask google-chrome
 brew install --cask firefox
 brew install --cask iterm2
-brew install --cask hyperswitch
-brew install --cask insomnia
-brew install --cask spectacle
 brew install --cask wpsoffice
-brew install --cask alfred
+# brew install --cask hyperswitch
+# brew install --cask spectacle
+# brew install --cask insomnia
+# brew install --cask alfred
 
 
 # Meeting apps & Remote support & Communication platforms
 brew install --cask anydesk
-brew install --cask skype
-brew install --cask zoom
-brew cask install teamviewer
-brew install --cask slack
-brew install --cask whatsapp
+# brew cask install teamviewer
+# brew install --cask zoom
+# brew install --cask skype
+# brew install --cask slack
+# brew install --cask whatsapp
 
 
 # Development apps
 #brew cask install phpstorm
 brew install --cask visual-studio-code
 brew install --cask sublime-text
+brew install --cask figma
+brew install --cask termius
+brew install --cask mongodb-compass
 # Github desktop
-brew install --cask github
 brew install --cask postman
-brew install --cask sequel-pro
-brew install --cask lastpass
+brew install --cask sequel-ace
+# brew install --cask github
+# brew install --cask sequel-pro
+# brew install --cask lastpass
 
 
 # Workspace apps
 brew install --cask notion
+# brew install --cask obs
 
 
 # Extra apps
@@ -45,7 +50,6 @@ brew install --cask notion
 #brew cask install upwork
 #brew cask install zeplin
 # brew install awscli
-
 
 ## CLI TOOLS
 brew install git
